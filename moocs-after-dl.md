@@ -39,8 +39,7 @@ Ready for a machine learning challenge? Try HSE’s [Advanced Machine Learning S
 If you’re interested in getting a little closer to the hardware used in deep learning, there are some good courses that introduce programming for specific architectures. All require proficiency in C and are relatively advanced:
 
 1. [Fundamentals of Parallelism on Intel Architecture](https://www.coursera.org/learn/parallelism-ia) - covers vectorization, OpenMP, MPI, etc. on Intel Xeon Phi (Knights Landing with AVX-512), from Intel/Colfax Research/Coursera
-2. [Performance Optimization on Intel Architecture](https://www.coursera.org/learn/performance-optimization-ia) - covers optimization techniques for Intel Xeon Phi architecture, from Intel/Colfax Research/Coursera (coming soon, I think?)
-3. [Introduction to Parallel Programming](https://eu.udacity.com/course/intro-to-parallel-programming--cs344) - CUDA programming on Nvidia GPUs from Nvidia/Udacity, covering things like parallel scatter/gather and manually implemented kernels
+2. [Introduction to Parallel Programming](https://eu.udacity.com/course/intro-to-parallel-programming--cs344) - CUDA programming on Nvidia GPUs from Nvidia/Udacity, covering things like parallel scatter/gather and manually implemented kernels
 
 Other classes on Coursera:
 
