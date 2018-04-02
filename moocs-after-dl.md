@@ -46,11 +46,12 @@ Other classes on Coursera:
 1. [Applied AI with DeepLearning, IBM Watson IoT Data Science Certificate](https://www.coursera.org/learn/ai) -- a fast-paced course, covering the basics (MLP, CNNs, RNNs, embeddings), as well as more advanced topics (autoencoders, time series forecasting, anomaly detection) and different frameworks (TF, Keras, PyTorch, DeepLearning4J, SystemML) on the IBM Data Science Experience (DSX)
 2. [An Introduction to Practical Deep Learning](https://www.coursera.org/learn/intro-practical-deep-learning) -- a tour of deep learning techniques (feedforward, CNN, & RNN mostly) using the Intel Nervana Neon framework, from Intel/Coursera (Python is used in the optional labs.)
 
-Microsoft has a series of deep learning courses on edX. They use CNTK (on top of Python):
+Microsoft has a series of deep learning courses on [Microsoft Cloud Society](https://cloudsociety.learning.microsoft.com/). They use CNTK (on top of Python):
 
-1. [Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-1) -- the basics (MLP, CNN, & RNN), this time with CNTK and a focus on parameter counting
-2. [Natural Language Processing (NLP)](https://www.edx.org/course/natural-language-processing-nlp-microsoft-dev288x) -- content mostly complementary to Sequence Models, since it focuses on Deep Semantic Similarity Models
-3. [Reinforcement Learning Explained](https://www.edx.org/course/reinforcement-learning-explained-microsoft-dat257x) -- MDPs, DQNs, etc.
+1. [Deep Learning Explained](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DAT236x+2018_T1/about) -- the basics (MLP, CNN, & RNN), this time with CNTK and a focus on parameter counting
+2. [Natural Language Processing (NLP)](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DEV288x+2018_T1/about) -- content mostly complementary to Sequence Models, since it focuses on Deep Semantic Similarity Models
+3. [Reinforcement Learning Explained](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DAT257x+2018_T1/about) -- MDPs, DQNs, etc.
+
 Fast.ai/USF has its very popular Deep Learning for Coders series. The instructors, Jeremy Howard & Rachel Thomas, take the reverse approach compared to most courses, starting with full working models and working backwards to examine how they function. The older version of the courses uses Python with TensorFlow & Keras. The new version uses PyTorch. As of February 2018, only the first course has been updated to PyTorch.
 
 1. [Practical Deep Learning for Coders](http://course.fast.ai/)
