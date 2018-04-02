@@ -45,8 +45,7 @@ If you’re interested in getting a little closer to the hardware used in deep l
 Other classes on Coursera:
 
 1. [Applied AI with DeepLearning, IBM Watson IoT Data Science Certificate](https://www.coursera.org/learn/ai) -- a fast-paced course, covering the basics (MLP, CNNs, RNNs, embeddings), as well as more advanced topics (autoencoders, time series forecasting, anomaly detection) and different frameworks (TF, Keras, PyTorch, DeepLearning4J, SystemML) on the IBM Data Science Experience (DSX)
-2. [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) -- a very basic (if you completed this specialization) overview of deep learning concepts from Yonsei/Coursera (no programming)
-3. [An Introduction to Practical Deep Learning](https://www.coursera.org/learn/intro-practical-deep-learning) -- a tour of deep learning techniques (feedforward, CNN, & RNN mostly) using the Intel Nervana Neon framework, from Intel/Coursera (Python is used in the optional labs.)
+2. [An Introduction to Practical Deep Learning](https://www.coursera.org/learn/intro-practical-deep-learning) -- a tour of deep learning techniques (feedforward, CNN, & RNN mostly) using the Intel Nervana Neon framework, from Intel/Coursera (Python is used in the optional labs.)
 
 Microsoft has a series of deep learning courses on edX. They use CNTK (on top of Python):
 
