@@ -40,6 +40,8 @@ If you’re interested in getting a little closer to the hardware used in deep l
 
 1. [Fundamentals of Parallelism on Intel Architecture](https://www.coursera.org/learn/parallelism-ia) - covers vectorization, OpenMP, MPI, etc. on Intel Xeon Phi (Knights Landing with AVX-512), from Intel/Colfax Research/Coursera
 2. [Introduction to Parallel Programming](https://eu.udacity.com/course/intro-to-parallel-programming--cs344) - CUDA programming on Nvidia GPUs from Nvidia/Udacity, covering things like parallel scatter/gather and manually implemented kernels
+3. [Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about)
+4. [Fundamentals of Accelerated Computing with CUDA Python](https://nvidia.qwiklab.com/quests/18)
 
 Other classes on Coursera:
 
