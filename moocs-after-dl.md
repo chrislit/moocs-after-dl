@@ -58,6 +58,12 @@ IBM's [CognitiveClass.ai](https://cognitiveclass.ai/) (formerly called Big Data 
 2. [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
 3. [Accelerating Deep Learning with GPU](https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/)
 
+NVIDIA's [Deep Learning Institute](https://courses.nvidia.com/) (based on OpenEdX) and other [educational offerings](https://www.nvidia.com/en-us/deep-learning-ai/education/) (mostly based on QwikLabs) include courses such as:
+
+* [Fundamentals of Deep Learning for Computer Vision](https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V2/about)
+* [Deep Learning for Healthcare Image Analysis](https://nvidia.qwiklab.com/quests/14)
+* [Deep Learning for Healthcare Genomics](https://nvidia.qwiklab.com/quests/13)
+
 Fast.ai/USF has its very popular Deep Learning for Coders series. The instructors, Jeremy Howard & Rachel Thomas, take the reverse approach compared to most courses, starting with full working models and working backwards to examine how they function. The older version of the courses uses Python with TensorFlow & Keras. The new version uses PyTorch. As of February 2018, only the first course has been updated to PyTorch.
 
 1. [Practical Deep Learning for Coders](http://course.fast.ai/)
