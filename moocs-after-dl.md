@@ -52,6 +52,12 @@ Microsoft has a series of deep learning courses on [Microsoft Cloud Society](htt
 2. [Natural Language Processing (NLP)](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DEV288x+2018_T1/about) -- content mostly complementary to Sequence Models, since it focuses on Deep Semantic Similarity Models
 3. [Reinforcement Learning Explained](https://cloudsociety.learning.microsoft.com/courses/course-v1:Microsoft+DAT257x+2018_T1/about) -- MDPs, DQNs, etc.
 
+IBM's [CognitiveClass.ai](https://cognitiveclass.ai/) (formerly called Big Data University; based on OpenEdX) has a trio of brief and relatively basic courses that explore a wide variety of models & frameworks and award free certificates & [badge](https://cognitiveclass.ai/badges/deep-learning/):
+
+1. [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/) -- based on the [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/videos?sort=da&view=0&flow=grid) YouTube series
+2. [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
+3. [Accelerating Deep Learning with GPU](https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/)
+
 Fast.ai/USF has its very popular Deep Learning for Coders series. The instructors, Jeremy Howard & Rachel Thomas, take the reverse approach compared to most courses, starting with full working models and working backwards to examine how they function. The older version of the courses uses Python with TensorFlow & Keras. The new version uses PyTorch. As of February 2018, only the first course has been updated to PyTorch.
 
 1. [Practical Deep Learning for Coders](http://course.fast.ai/)
