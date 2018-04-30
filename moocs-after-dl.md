@@ -32,8 +32,8 @@ Ready for a machine learning challenge? Try HSE’s [Advanced Machine Learning S
 2. [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) -- covers lots of practical EDA, feature engineering, and hyperparameter optimization
 3. [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) -- EM, LDA, MCMC, VAEs, etc.
 4. [Natural Language Processing](https://www.coursera.org/learn/language-processing) -- includes deeper looks at DL topics introduced in Sequence Models, as well as coverage of classical NLP approaches
-5. [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl) (expected April 2018)
-6. [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision) (expected April 2018)
+5. [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl) -- value/policy iteration, MDPS, Q-learning, DQNs, etc.
+6. [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision) -- pre-DL computer vision methods (e.g. Gaussian filters & Canny edge detectors) and CNNs applied to object detection, tracking (in video), and image segmentation/synthesis (using style transfer & GANs)
 7. [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning) (expected May 2018)
 
 If you’re interested in getting a little closer to the hardware used in deep learning, there are some good courses that introduce programming for specific architectures. All require proficiency in C and are relatively advanced:
